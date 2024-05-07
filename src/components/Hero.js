@@ -1,4 +1,4 @@
-import GetStarted from "./GetStarted";
+
 import styles from "../style";
 import { apple, robot,google } from "../assets";
 const Hero = () => {
