@@ -4,7 +4,6 @@ import { faLockOpen } from '@fortawesome/free-solid-svg-icons'
 import { close, logo, menu } from "../assets";
 import { navLinks } from "../constants";
 import { Outlet, Link } from "react-router-dom";
-import styles from "../style";
 const Navbar = () => {
   const [active, setActive] = useState("Home");
   const [toggle, setToggle] = useState(false);
