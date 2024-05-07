@@ -1,5 +1,4 @@
 import React from 'react'
-import { coming } from '../assets'
 const ComingSoon = ({image,soon}) => {
   return (
     <div className=' flex justify-center items-center text-center py-40'>
